@@ -1,2 +1,2 @@
-# junior
-Начальный проект для курса Junior
+# Java Developer
+Initial project, online store
